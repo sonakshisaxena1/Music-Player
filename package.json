@@ -1,0 +1,26 @@
+{
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "description": "Online Music Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonakshisaxena1/Music-Player.git"
+  },
+  "keywords": [
+    "node",
+    "music-player"
+  ],
+  "author": "@sonakshisaxena1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonakshisaxena1/Music-Player/issues"
+  },
+  "homepage": "https://github.com/sonakshisaxena1/Music-Player#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
